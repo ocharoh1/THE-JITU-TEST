@@ -1,4 +1,4 @@
-/* QUESTION 4*/
+/* QUESTION T FOUR*/
 /* Design a function that determines whether a given string is a pangram. A
 pangram is a sentence or phrase containing every letter of the alphabet at
 least once. Punctuation and case are typically ignored. For example, the
